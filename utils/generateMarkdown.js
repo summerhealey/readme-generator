@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.title} ${data.license.badge}
   
   # Table of Contents
   * [Project Description](#project-description)
@@ -21,11 +21,11 @@ function generateMarkdown(data) {
   # Tests
   ${data.tests}
   # License
-  ${data.license}
+  ${data.license.text}
   # Contributions
   ${data.contributors}
   # Questions
-  If you have any questions, please contact the project owner by clicking on the email listed below.  
+  For additional information, please e-mail the project manager [${data.name}](https://github.com/${data.github}/): ${data.email}.  
   
 `;
 }
