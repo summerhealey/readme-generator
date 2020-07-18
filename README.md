@@ -9,6 +9,7 @@ This is a command-line application that dynamically generates a professional REA
 node index.js
 ```
 This application uses the Trilogy Education Services standards from their Good README Guide to generate a README.md file for open source projects on GitHub. These standards include:
+
 * information about what the app is for
 * how to use the app
 * how to install it
