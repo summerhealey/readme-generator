@@ -58,6 +58,9 @@ Client Demo:
 Application Demo: 
 ![Deployed Application Screenshot](./assets/images/readmeGenerator.jpg)
 
+Video Demo:
+![Video Demonstration of Application](https://drive.google.com/file/d/1seF-hg-FnG3xnGFsyl_ATBg5TJiC36MW/view)
+
 GitHub Repository: https://github.com/summerhealey/readme-generator
 
 # Criteria Determination: 
