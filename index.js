@@ -18,12 +18,12 @@ const questions = [
     {
         type: "input",
         name: "name",
-        message: "Enter your name:"
+        message: "Enter your name: "
     },
     {
         type: "input",
         name: "title",
-        message: "Enter the title of your project:"
+        message: "Enter the title of your project: "
     },
     {
         type: "input",
@@ -109,7 +109,7 @@ inquirer.prompt(questions).then(function(answers){
         answers.contributors = noContributors;
     }
 
-    writeToFile("goodREADME.md", answers)
+    writeToFile("goodREADME.md", answers);
 }
 )};
 // function call to initialize program

@@ -1,4 +1,4 @@
-# Generated README.md Sample 
+# Good README Generator Sample 
   
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
   
@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   # Project Description
-  Description of project would be found here. 
+  Description of the Description of project would be found here. 
   
   # Installation
   Installation instructions for needed dependencies or on how to install the application would be found here.
